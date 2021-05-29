@@ -2,7 +2,7 @@
 
 Name's Vitor, I'm 27 a y/o brazilian guy trying some code stuff, I don't really know much, although I'm currently on a Java training and I just looked over some (really basic) C things on college and Python on my own.
 
-Stuff I may or not know about:
+#### Stuff I may or not know about:
 
 - java
 - c
@@ -15,7 +15,7 @@ Stuff I may or not know about:
 - windows (duh)
 - gnu/linux (ubuntu, arch, manjaro, maybe fedora)
 
-Talk to me about:
+#### Talk to me about:
 
 - weeb and humanities stuff (philodophy, history, psychology, languages) ; 
 - crypto, design, devops, free software;
