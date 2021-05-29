@@ -4,7 +4,7 @@ Name's Vitor, I'm 27 a y/o guy trying some code stuff, I don't really know much,
 
 Talk to me about:
 
-- weeb and humanities stuff (philodophy, history, psychology) ; 
+- weeb and humanities stuff (philodophy, history, psychology, languages) ; 
 - crypto, design, devops, free software;
 - metroidvanias & roguelike games; 
 
