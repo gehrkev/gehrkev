@@ -10,8 +10,8 @@ Name's Vitor, I'm 27 a y/o brazilian guy trying some code stuff, I don't really 
 - git
 - eclipse
 - maven
-- eclipse
 - spring
+- REST services
 - windows (duh)
 - gnu/linux (ubuntu, arch, manjaro, maybe fedora)
 
