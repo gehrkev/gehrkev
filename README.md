@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Name's Vitor, I'm 27 a y/o guy trying some code stuff, I don't really know much, though I'm currently on a Java training and I just looked over some (really basic) C things on college and Python on my own.
+Name's Vitor, I'm 27 a y/o brazilian guy trying some code stuff, I don't really know much, though I'm currently on a Java training and I just looked over some (really basic) C things on college and Python on my own.
 
 Talk to me about:
 
