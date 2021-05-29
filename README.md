@@ -1,6 +1,6 @@
 ### Salutations! 👋
 
-Name's Vitor, I'm 27 a y/o brazilian guy trying some code stuff, I don't really know much, although I'm currently on a Java training and I just looked over some (really basic) C things on college and Python on my own.
+Name's Vitor, I'm 27 a y/o brazilian guy trying some code stuff, I don't really know much, although I'm currently on a Java training and I just looked over some (really basic) C things in college and Python on my own.
 
 #### Stuff I may or not know about:
 
@@ -17,15 +17,11 @@ Name's Vitor, I'm 27 a y/o brazilian guy trying some code stuff, I don't really 
 
 #### Talk to me about:
 
-- weeb and humanities stuff (philodophy, history, psychology, languages) ; 
-- crypto, design, devops, free software;
+- weeb and humanities stuff (philosophy, history, psychology, languages); 
+- crypto, , the internet, design, devops, free software;
 - metroidvanias & roguelike games;
-- music (I can't play for shit but I like it very much, thank you)
-- coding, I guess
-
-
-
-
+- coding in general, I guess
+- 
 <!--
 **gehrkev/gehrkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
