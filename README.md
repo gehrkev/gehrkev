@@ -6,7 +6,8 @@ Talk to me about:
 
 - weeb and humanities stuff (philodophy, history, psychology, languages) ; 
 - crypto, design, devops, free software;
-- metroidvanias & roguelike games; 
+- metroidvanias & roguelike games;
+- music (I can't play for shit but I like it very much, thank you)
 
 
 
