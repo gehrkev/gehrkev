@@ -18,10 +18,10 @@ Name's Vitor, I'm 27 a y/o brazilian guy trying some code stuff, I don't really 
 #### Talk to me about:
 
 - weeb and humanities stuff (philosophy, history, psychology, languages); 
-- crypto, , the internet, design, devops, free software;
+- crypto, the amazing place known as the internet and its impact on people, design, devops, free software;
 - metroidvanias & roguelike games;
 - coding in general, I guess
-- 
+
 <!--
 **gehrkev/gehrkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
