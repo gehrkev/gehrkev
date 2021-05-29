@@ -8,7 +8,7 @@ Talk to me about:
 - crypto, design, devops, free software;
 - metroidvanias & roguelike games;
 - music (I can't play for shit but I like it very much, thank you)
-
+- coding, I guess
 
 
 <!--
