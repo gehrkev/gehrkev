@@ -1,17 +1,19 @@
 ### Salutations! 👋
 
-Name's Vitor, I'm 27 a y/o brazilian guy trying some code stuff, I don't really know much, although I'm currently on a Java training and I just looked over some (really basic) C things in college and Python on my own.
+Name's Vitor, I'm 28 a y/o brazilian guy trying some code stuff, I don't really know much, although I'm currently on a Java training and I just looked over some (really basic) C things in college and Python on my own.
 
 #### Stuff I may or not know about:
 
 - java
 - c
 - python
+- [pl/]sql
 - git
 - eclipse
 - maven
 - spring
 - REST services
+- angular
 - windows (duh)
 - gnu/linux (ubuntu, arch, manjaro, maybe fedora)
 
