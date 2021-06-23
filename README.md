@@ -4,7 +4,7 @@ Name's Vitor, I'm a 28 y/o brazilian guy trying some code stuff, I don't really 
 
 #### Stuff I may or not know about:
 
-- java, c, python
+- java, c, python, html+css+js/ts
 - [pl/]sql - oracle & postgresql
 - shellscript
 - git
