@@ -1,6 +1,6 @@
 ### Salutations! 👋
 
-Name's Vitor, I'm 28 a y/o brazilian guy trying some code stuff, I don't really know much, although I've recently been on Java-oriented training and I just looked over some (really basic) C things in college and Python on my own.
+Name's Vitor, I'm a 28 y/o brazilian guy trying some code stuff, I don't really know much, although I've recently been on Java-oriented training and I just looked over some (really basic) C things in college and Python on my own.
 
 #### Stuff I may or not know about:
 
