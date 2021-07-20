@@ -12,7 +12,7 @@ Name's Vitor, I'm a 28 y/o brazilian guy trying some code stuff, I've recently b
 - maven
 - spring, hibernate, angular frameworks
 - REST services
-- windows & gnu/linux (ubuntu, arch, manjaro, maybe fedora), I might try out freebsd soon
+- windows & *nix (debian, ubuntu, arch, manjaro, fedora, freebsd)
 
 #### Talk to me about:
 
