@@ -1,22 +1,18 @@
-### Salutations! 👋
+### Hello, World! 👋
 
-Name's Vitor, I'm a 28 y/o brazilian guy trying some code stuff, I've recently been on Java-oriented training and I just looked over some (really basic) C things in college and Python on my own.
+I'm a 29 y/o brazilian guy trying some code stuff. Relatively, I'm a newbie developer, having only over a year of coding experience, but I tinkered with digital systems ever since I got my first PC as a kid, frying up some equipment on the process, but I also tweaked bits and pieces of code or the systems for my liking.
 
-#### Stuff I may or not know about:
+#### Stuff I may know something about:
 
 - java, c, python, html+css+js/ts
 - [pl/]sql - oracle & postgresql
+- jasper reports
 - shellscript
 - git
-- eclipse & vscode IDEs
 - maven
 - spring, hibernate, angular frameworks
 - REST services
+- SOLID design
 - windows & *nix (debian, ubuntu, arch, manjaro, fedora, freebsd)
 
-#### Talk to me about:
-
-- weeb and humanities stuff (philosophy, history, psychology, languages); 
-- crypto, the amazing place known as the internet and its impact on people, design, devops, free software;
-- metroidvanias & roguelike games;
-- coding in general, I guess
+I've also taken some Industrial Engineering classes so I'm knowledgeable about the managerial system
