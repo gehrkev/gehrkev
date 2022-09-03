@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-I'm a 29 y/o brazilian guy trying some code stuff. Relatively, I'm a newbie developer, having only over a year of coding experience, but I tinkered with digital systems ever since I got my first PC as a kid, frying up some equipment on the process, but I also tweaked bits and pieces of code or the systems for my liking.
+I'm a 29 y/o brazilian guy trying some code stuff. Relatively, I'm a newbie developer, having only over a year of coding experience, but I tinkered with digital systems ever since I got my first PC as a kid, frying up and bricking some equipment on the process, but I also tweaked bits and pieces of code or the systems for my liking.
 
 #### Stuff I may know something about:
 
